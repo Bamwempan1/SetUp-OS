@@ -2,8 +2,8 @@
  Fichier et ligne de commande pour restart un windows et linux proprement avec un ASUS g551jm
 
 ## A Faire
-[ ] Mettre les lignes de commande dans le ReadMe
-[ ] Ecrire un readme Proprement !
+- [ ] Mettre les lignes de commande dans le ReadMe
+- [ ] Ecrire un readme Proprement !
 
 ### Ordi
 [Spéc ordi](https://forum.hardware.fr/hfr/OrdinateursPortables/portable/unique-asus-g551-sujet_76648_1.htm)
