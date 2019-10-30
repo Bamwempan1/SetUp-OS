@@ -59,8 +59,13 @@ Reboot
 </pre>
 
 ### Faire des racourcies pour les dossiers Windows sur le dossier Home linux
+Vérifier la listes des disques disponible
 <pre>
-ln -s /mnt/09044826333377E0/Vidéos  /home/kevin
+blkid
+</pre>
+Récuperer l'UUID du disque choisi pour l'emplacement des dossier partager entre Windows et Linux
+<pre>
+ln -s /mnt/"UUID"/"Vidéos"  /home/"user"
 </pre>
 
 Si les dossier ne sont accessible que en lecture utiliser la commande suivante sur le disque utile
