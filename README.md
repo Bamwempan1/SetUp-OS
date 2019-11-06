@@ -65,7 +65,8 @@ blkid
 </pre>
 Récuperer l'UUID du disque choisi pour l'emplacement des dossier partager entre Windows et Linux
 <pre>
-ln -s /mnt/"UUID"/"Vidéos"  /home/"user"
+rm Vidéos
+ln -s /mnt/"UUID"/Vidéos  /home/"user"
 </pre>
 
 Si les dossier ne sont accessible que en lecture utiliser la commande suivante sur le disque utile
@@ -74,3 +75,9 @@ sudo ntfsfix /dev/sda6
 </pre>
 
 ### NUMIX THEME ICON
+
+<pre>
+sudo add-apt-repository ppa:numix/ppa
+sudo apt-get update
+sudo apt-get install numix-gtk-theme numix-icon-theme-circle numix-icon-theme-square
+</pre>
