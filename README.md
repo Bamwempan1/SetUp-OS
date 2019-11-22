@@ -11,6 +11,7 @@
 ## Windows
 
 ### Instaler cache
+Installer cache si et seulement si pas de cohabitation linux, le cache inclus le démarage rapide...
 [Tutoriel Pour installer cache](https://forum.hardware.fr/hfr/OrdinateursPortables/portable/unique-asus-g551-sujet_76648_17.htm#t1461033)
 
 ### Vérifier si le cache est en marche
