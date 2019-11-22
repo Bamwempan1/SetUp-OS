@@ -32,6 +32,9 @@
 ### Si le clavier ne s'allume pas
 <pre>Lancer le pilote ATKpackage</pre>
 
+### Si Cohabitation avec linux
+[Désactiver démarage rapide](https://forums.cnetfrance.fr/topic/1216531-windows-10--8--desactiver-le-demarrage-rapide/)
+
 ## Linux
 
 ### Armoniser Windows et Linux
