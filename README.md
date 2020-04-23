@@ -38,6 +38,8 @@ Installer cache si et seulement si pas de cohabitation linux, le cache inclus le
 
 ## Linux
 
+[NTFS ecriture/lecture](https://doc.ubuntu-fr.org/tutoriel/ntfs)
+
 ### Armoniser Windows et Linux
 [Tuto Armoniser Window et Linux](https://www.howtogeek.com/howto/35807/how-to-harmonize-your-dual-boot-setup-for-windows-and-ubuntu/)
 
