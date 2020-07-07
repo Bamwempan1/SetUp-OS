@@ -40,6 +40,10 @@ Installer cache si et seulement si pas de cohabitation linux, le cache inclus le
 
 [Drivers](https://ivanrf.com/en/latest-asus-drivers-for-windows-10/)
 
+### Driver Clavier Apple
+
+Installer le package dans le dossier windows.
+
 ## Linux
 
 [NTFS ecriture/lecture](https://doc.ubuntu-fr.org/tutoriel/ntfs)
