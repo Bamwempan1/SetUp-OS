@@ -97,3 +97,7 @@ Clean apt, et noyaux linux
 <pre>
 sudo apt autoremove
 </pre>
+
+### Ptit logiciel
+
+Stacer
